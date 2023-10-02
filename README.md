@@ -74,7 +74,7 @@ Aqui estão os endpoints disponíveis na API:
 - Parâmetros: numero_conta - Número da conta, senha - Senha do usuário
 - Descrição: Lista as transações realizadas em uma conta específica.
 
-![Demonstração imagem](/img/Desafio01.gif)
+![](./img/Desafio01.png) 
 
 ## Autora
 
